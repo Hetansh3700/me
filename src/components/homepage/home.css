@@ -1,5 +1,4 @@
 .about-me{
-    animation: fadeIn 7s;
     margin-top: 32px;
     line-height: 2;
     border-style: ridge;
@@ -15,7 +14,6 @@
     text-decoration: inset;
   }
   .quote{
-    animation: fadeIn 7s;
     font-size: 20px;
     margin-top: 100px;
     line-height: 1.5;
@@ -30,12 +28,5 @@
   .homepage{
     margin: 20px;
   }
-@keyframes fadeIn {
-  from{
-    opacity: 0;
-  }
-  to{
-    opacity: 1;
-  }
-}
+
   
