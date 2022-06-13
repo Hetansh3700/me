@@ -1,0 +1,44 @@
+.skills{
+    margin: 20px;
+}
+.skillimgs{
+    margin-bottom: 5px;
+    width: 70%;
+    height: 70%;
+}
+.skillcard{
+    align-items: center;
+    display: flex;
+    animation: fadeIn 5s;
+}
+.skillimgholder{
+    margin: 20px;
+    display: flex;
+}
+.innercard{
+    font-size: 13px;
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    background-color: #141414;
+    margin:0 20px;
+}
+.skilllink{
+    text-decoration: none;
+}
+.skillheader{
+    width: 150px;
+}
+@keyframes fadeIn {
+    from{
+      opacity: 0;
+    }
+    to{
+      opacity: 1;
+    }
+  }
