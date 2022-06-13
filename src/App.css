@@ -1,5 +1,4 @@
 .App {
-  animation: fadeIn 1s;
   background-color: #242424;
   background-size: cover;
   position: fixed;
@@ -34,11 +33,3 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
