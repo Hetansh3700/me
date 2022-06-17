@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/me/static/media/spring.594680f3.png"
   },
   {
-    "revision": "fd91fdb69da76ea6e40af4159b1de11b",
+    "revision": "69e38e8a0b08b5cf65cb6414d45ed348",
     "url": "/me/index.html"
   }
 ];
