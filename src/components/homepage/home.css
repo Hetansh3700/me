@@ -38,3 +38,27 @@
       opacity: 1;
     }
   }
+  @media screen and (max-width: 680px) {
+    .about-me{
+      width: 80vw;
+      border-style: none;
+      border-style: ridge;
+    }
+    .about-me h2{
+      font-size: small;
+    }
+    .about-me p{
+      font-size: small;
+    }
+    .quote h2{
+      font-size: small;
+      margin-bottom: 10px;
+    }
+    .quote p{
+      font-size: small;
+    }
+    .quote{
+      text-align: left;
+      float: left;
+    }
+  }
