@@ -22,7 +22,7 @@
     border-style: ridge;
     border-color: white;
     border-radius: 8px;
-    width: 600px;
+    width: fit-content;
     text-align: right;
     padding: 20px;
     float: right;
