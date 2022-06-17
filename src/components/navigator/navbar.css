@@ -31,3 +31,26 @@
     opacity: 1;
   }
 }
+@media screen and (max-width: 680px){
+  .heading{
+    display: block;
+  }
+  .heading h1{
+    display: none;
+  }
+  .mobile{
+    display: block;
+    margin: 25px;
+    text-decoration: underline;
+  }
+  .navigation a{
+    font-size: small;
+    margin-top: none;
+    padding-top: none;
+  }
+  .navigation{
+    padding: 10px;
+    margin-top: none;
+    padding-top: none;
+  }
+}
