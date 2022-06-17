@@ -23,6 +23,9 @@
 .navigation a:hover{
   color: white;
 }
+.mobile{
+  display: none;
+}
 @keyframes fadeIn {
   from{
     opacity: 0;
