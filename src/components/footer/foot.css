@@ -16,7 +16,7 @@
 }
 .footer{
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     position: absolute;
     bottom: 30px;
     left: 30px;
@@ -27,7 +27,8 @@
 }
 @media screen and (max-width: 680px){
     .footer{
-        width: 100vw;
+        position: relative;
+        bottom: 0;
     }
     .socialtag{
         margin-right: 15px;
