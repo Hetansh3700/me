@@ -15,12 +15,12 @@ const Homepage = () => {
                     require sponsorship to work in the US.
                 </p>
            </div>
-           <div className="quote">
+           {/* <div className="quote">
                <h2>Quote of the day!</h2>
                <p>
                    Code is like humor. If you have to explain it, it's bad.
                </p>
-           </div>
+           </div> */}
         </div>
         </>
      );
