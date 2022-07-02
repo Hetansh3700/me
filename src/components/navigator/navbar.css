@@ -1,21 +1,26 @@
 .heading{
-  padding: 20px;
+  /* padding: 20px; */
   display: flex;
-  align-items: center;
-  max-width: px;
+  /* align-items: center; */
   margin: 0 auto;
   justify-content: space-between;
 }
 .heading h1{
+  padding: 20px;
   animation: fadeIn 4s;
   text-decoration: underline;
-  border-radius: 8px;
+  /* border-radius: 8px; */
 }
-.heading a{
+.navigation{
+  margin-top: 10px;
+  padding: 20px;
+}
+.navigation a{
   animation: fadeIn 4s;
   color:black;
   background-color: cyan;
   border-radius: 8px;
+  margin-top: 20px;
   margin-left: 16px;
   text-decoration: none;
   padding: 6px;
@@ -25,6 +30,7 @@
 }
 .mobile{
   display: none;
+  
 }
 @keyframes fadeIn {
   from{

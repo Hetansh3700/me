@@ -5,7 +5,7 @@
 }
 .projects{
     animation: fadeIn 3s;
-   margin: 20px; 
+    margin: 20px; 
 }
 .cardimg{
     border-radius: 10px 0px 0px 10px;
@@ -45,3 +45,19 @@
       opacity: 1;
     }
   }
+  @media screen and (max-width: 680px){
+    .cardholder{
+        display: block;
+    }
+    .card{
+        display: block;
+        
+    }
+    .projects{
+        overflow-y: scroll;
+    }
+    .cardimg{
+       width: 332px;
+       border-radius: 10px 10px 0px 0px;
+    }
+}
