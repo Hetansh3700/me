@@ -8,7 +8,7 @@ const Homepage = () => {
                 <h2>About me:</h2>
                 <br />
                 <p>
-                    Welcome to my website! My name is Hetansh Patel, an interntional student from India.
+                    Welcome to my website! My name is Hetansh Patel, an international student from India.
                     I am currently pursuing my bachelor's degree in Computer science from Georgia State University.
                     Currently, I am looking for my first professional experience in field of CS. I made this website
                     to share some insight about myself and the projects I have worked on. As an international student I will
