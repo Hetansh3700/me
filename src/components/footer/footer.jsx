@@ -20,7 +20,7 @@ const Footer = () => {
             <div className="socialtag">
                 <img src= {linkedin} alt="" className="socialimg" />
                 <a 
-                    href="https://www.linkedin.com/in/hetansh-patel-340b171b1/"
+                    href="https://www.linkedin.com/in/hetanshpatel3700/"
                     className="socialLink"
                     rel='noreferrer noopener' 
                     target = "_blank">LinkedIn</a>
